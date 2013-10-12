@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12507/audacity-src/trunk/src/export
+END
+ExportMultiple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12482/audacity-src/trunk/src/export/ExportMultiple.cpp
+END
+ExportMP2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12482/audacity-src/trunk/src/export/ExportMP2.cpp
+END
+ExportCL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12482/audacity-src/trunk/src/export/ExportCL.cpp
+END
+ExportMP3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12507/audacity-src/trunk/src/export/ExportMP3.cpp
+END
+ExportMultiple.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12128/audacity-src/trunk/src/export/ExportMultiple.h
+END
+ExportCL.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12243/audacity-src/trunk/src/export/ExportCL.h
+END
+ExportMP2.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12243/audacity-src/trunk/src/export/ExportMP2.h
+END
+ExportFFmpeg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12477/audacity-src/trunk/src/export/ExportFFmpeg.cpp
+END
+ExportMP3.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12243/audacity-src/trunk/src/export/ExportMP3.h
+END
+ExportFLAC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12482/audacity-src/trunk/src/export/ExportFLAC.cpp
+END
+ExportFFmpegDialogs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12482/audacity-src/trunk/src/export/ExportFFmpegDialogs.cpp
+END
+ExportFFmpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12243/audacity-src/trunk/src/export/ExportFFmpeg.h
+END
+ExportFLAC.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12243/audacity-src/trunk/src/export/ExportFLAC.h
+END
+ExportOGG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12482/audacity-src/trunk/src/export/ExportOGG.cpp
+END
+ExportFFmpegDialogs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11055/audacity-src/trunk/src/export/ExportFFmpegDialogs.h
+END
+Export.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12482/audacity-src/trunk/src/export/Export.cpp
+END
+ExportPCM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12470/audacity-src/trunk/src/export/ExportPCM.cpp
+END
+ExportOGG.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12243/audacity-src/trunk/src/export/ExportOGG.h
+END
+ExportPCM.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12243/audacity-src/trunk/src/export/ExportPCM.h
+END
+Export.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10724/audacity-src/trunk/src/export/Export.h
+END

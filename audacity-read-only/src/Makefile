@@ -1,0 +1,369 @@
+#######################################
+#
+# Audacity Makefile
+#
+# Dominic Mazzoni
+#
+# Run configure to generate Makefile
+# from Makefile.in
+#
+
+CC = gcc
+CCC = g++
+
+# Files that must exist in order to compile a C/C++ files
+CDEPEND = 
+
+# For precompiled header support
+PRECOMP_CFLAGS = 
+
+LOCAL_LIBS =  FileDialog.a libsndfile.a libsoxr.a libsbsms.a libSoundTouch.a libnyquist.a expat.a libtwolame.a libportSMF.a libportaudio.a  libportmixer.a
+EXTRAOBJS = 
+EXTRATARGETS = 
+LIBS = -ldl  -L/usr/lib/x86_64-linux-gnu -pthread -Wl,-Bsymbolic-functions -Wl,-z,relro -L/usr/lib/x86_64-linux-gnu -lwx_gtk2u_richtext-2.8 -lwx_gtk2u_aui-2.8 -lwx_gtk2u_xrc-2.8 -lwx_gtk2u_qa-2.8 -lwx_gtk2u_html-2.8 -lwx_gtk2u_adv-2.8 -lwx_gtk2u_core-2.8 -lwx_baseu_xml-2.8 -lwx_baseu_net-2.8 -lwx_baseu-2.8 -lvorbisenc -lvorbisfile -lvorbis -logg -lasound -lrt
+DIRS=blockfile commands effects effects/ladspa effects/nyquist effects/vamp export import prefs toolbars widgets xml
+
+srcdir=.
+top_srcdir=..
+top_builddir=..
+prefix=/usr/local/
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+# used for the MP3 exporter to help find libmp3lame.so.0
+
+# CFLAGS are specific to C.
+override CFLAGS +=  -Wstrict-prototypes  -Wall
+
+# CXXFLAGS are specific to C++.
+override CXXFLAGS += -I$(top_srcdir)/lib-src/portmixer/include   -Wall -I/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8 -I/usr/include/wx-2.8 -D_FILE_OFFSET_BITS=64 -D_LARGE_FILES -D__WXGTK__ -pthread -I$(top_srcdir)/lib-src/FileDialog -I/home/jg/Audacity/audacity-read-only/lib-src/lib-widget-extra    -I$(top_srcdir)/lib-src/libsndfile/src -I$(top_srcdir)/lib-src/libsoxr/src -I$(top_srcdir)/lib-src/sbsms/include -I$(top_srcdir)/lib-src/soundtouch/include -I$(top_srcdir)/lib-src/libnyquist -I$(top_srcdir)/lib-src/libvamp -I$(top_srcdir)/lib-src/expat -I$(top_srcdir)/lib-src/twolame/libtwolame -I$(top_srcdir)/lib-src/portsmf -I$(top_srcdir)/lib-src/portaudio-v19/include 
+
+# CPPFLAGS are for both C and C++.
+override CPPFLAGS += -fno-strict-aliasing -I$(srcdir)/include -I. -DLIBDIR=\"$(libdir)\" -D__STDC_CONSTANT_MACROS   -Wall 
+
+# LDFLAGS are for linking. BUILD_LDFLAGS are not valid during configure because
+# they reference libs that haven't been built yet
+override LDFLAGS +=   -rdynamic  -L/home/jg/Audacity/audacity-read-only/lib-src/lib-widget-extra -lwidgetextra        -L$(top_builddir)/lib-src/libvamp/src -lvamp-hostsdk     
+
+########################################
+# ALL OBJECT FILES
+
+OBJS = \
+	Block.o \
+	Analyzer.o \
+	AColor.o \
+	AboutDialog.o \
+	AudacityApp.o \
+	AudioIO.o \
+	AutoRecovery.o \
+	BatchCommandDialog.o \
+	BatchCommands.o \
+	BatchProcessDialog.o \
+	Benchmark.o \
+	CaptureEvents.o \
+	Dependencies.o \
+	DeviceManager.o \
+	Envelope.o \
+	FFmpeg.o \
+	FFT.o \
+	FileIO.o \
+	FileNames.o \
+	FreqWindow.o \
+	HelpText.o \
+	HistoryWindow.o \
+	ImageManipulation.o \
+	InterpolateAudio.o \
+	LabelDialog.o \
+	LabelTrack.o \
+	Languages.o \
+	LangChoice.o \
+	Legacy.o \
+	LoadModules.o \
+	Lyrics.o \
+	LyricsWindow.o \
+	Matrix.o \
+	Menus.o \
+	Mix.o \
+	MixerBoard.o \
+	PitchName.o \
+	PlatformCompatibility.o \
+	PluginManager.o \
+	Printing.o \
+	Profiler.o \
+	Project.o \
+	RealFFTf.o \
+	Resample.o \
+	RingBuffer.o \
+	Screenshot.o \
+	Shuttle.o \
+	ShuttleGui.o \
+	ShuttlePrefs.o \
+	Snap.o \
+	Spectrum.o \
+	SplashDialog.o \
+	SoundActivatedRecord.o \
+	Tags.o \
+	Theme.o \
+	TimeDialog.o \
+	TimeTrack.o \
+	TimerRecordDialog.o \
+	Track.o \
+	TrackArtist.o \
+	TrackPanel.o \
+	TrackPanelAx.o \
+	UndoManager.o \
+	UploadDialog.o \
+	VoiceKey.o \
+	WaveClip.o \
+	WaveTrack.o \
+	WrappedType.o \
+	commands/AppCommandEvent.o \
+	commands/BatchEvalCommand.o \
+	commands/Command.o \
+	commands/CompareAudioCommand.o \
+	commands/CommandBuilder.o \
+	commands/CommandDirectory.o \
+	commands/CommandHandler.o \
+	commands/CommandManager.o \
+	commands/CommandSignature.o \
+	commands/CommandType.o \
+	commands/ExecMenuCommand.o \
+	commands/GetAllMenuCommands.o \
+	commands/GetProjectInfoCommand.o \
+	commands/GetTrackInfoCommand.o \
+	commands/HelpCommand.o \
+	commands/ImportExportCommands.o \
+	commands/Keyboard.o \
+	commands/MessageCommand.o \
+	commands/PreferenceCommands.o \
+	commands/ResponseQueue.o \
+	commands/ScreenshotCommand.o \
+	commands/ScriptCommandRelay.o \
+	commands/SelectCommand.o \
+	commands/SetProjectInfoCommand.o \
+	commands/SetTrackInfoCommand.o \
+	effects/Effect.o \
+	effects/Generator.o \
+	effects/EffectCategory.o \
+	effects/EffectManager.o \
+	effects/SimpleMono.o \
+	effects/SBSMSEffect.o \
+	effects/TimeScale.o \
+	effects/SoundTouchEffect.o \
+	effects/LoadEffects.o \
+	effects/Amplify.o \
+	effects/AutoDuck.o \
+	effects/BassTreble.o \
+	effects/ChangePitch.o \
+	effects/ChangeSpeed.o \
+	effects/ChangeTempo.o \
+	effects/ClickRemoval.o \
+	effects/Compressor.o \
+	effects/Contrast.o \
+	effects/DtmfGen.o \
+	effects/Echo.o \
+	effects/Equalization.o \
+	effects/Fade.o \
+	effects/FindClipping.o \
+	effects/Invert.o \
+	effects/Leveller.o \
+	effects/Noise.o \
+	effects/NoiseRemoval.o \
+	effects/Normalize.o \
+	effects/Paulstretch.o \
+	effects/Phaser.o \
+	effects/Repair.o \
+	effects/Repeat.o \
+	effects/Reverb.o \
+	effects/Reverse.o \
+	effects/Silence.o \
+	effects/StereoToMono.o \
+	effects/TimeWarper.o \
+	effects/ToneGen.o \
+	effects/TruncSilence.o \
+	effects/TwoPassSimpleMono.o \
+	effects/VST/VSTEffect.o \
+	effects/Wahwah.o \
+	export/Export.o \
+	export/ExportMultiple.o \
+	export/ExportMP2.o \
+	export/ExportMP3.o \
+	export/ExportOGG.o \
+	export/ExportFLAC.o \
+	export/ExportPCM.o \
+	export/ExportCL.o \
+	import/Import.o \
+	import/ImportFLAC.o \
+	import/ImportLOF.o \
+	import/ImportMP3.o \
+	import/ImportOGG.o \
+	import/ImportPCM.o \
+	import/ImportRaw.o \
+	import/RawAudioGuess.o \
+	ondemand/ODComputeSummaryTask.o \
+	ondemand/ODDecodeTask.o \
+	ondemand/ODDecodeFFmpegTask.o \
+	ondemand/ODManager.o \
+	ondemand/ODTask.o \
+	ondemand/ODTaskThread.o \
+	ondemand/ODWaveTrackTaskQueue.o \
+   prefs/BatchPrefs.o \
+   prefs/DevicePrefs.o \
+   prefs/DirectoriesPrefs.o \
+   prefs/EffectsPrefs.o \
+   prefs/GUIPrefs.o \
+   prefs/ImportExportPrefs.o \
+   prefs/KeyConfigPrefs.o \
+   prefs/LibraryPrefs.o \
+   prefs/MidiIOPrefs.o \
+   prefs/ModulePrefs.o \
+   prefs/MousePrefs.o \
+   prefs/PlaybackPrefs.o \
+   prefs/PrefsDialog.o \
+   prefs/ProjectsPrefs.o \
+   prefs/QualityPrefs.o \
+   prefs/RecordingPrefs.o \
+   prefs/SpectrumPrefs.o \
+   prefs/ThemePrefs.o \
+   prefs/TracksPrefs.o \
+   prefs/WarningsPrefs.o \
+   prefs/ExtImportPrefs.o \
+	toolbars/ControlToolBar.o \
+	toolbars/DeviceToolBar.o \
+	toolbars/EditToolBar.o \
+	toolbars/MeterToolBar.o \
+	toolbars/MixerToolBar.o \
+	toolbars/SelectionBar.o \
+	toolbars/ToolBar.o \
+	toolbars/ToolDock.o \
+	toolbars/ToolManager.o \
+	toolbars/ToolsToolBar.o \
+	toolbars/TranscriptionToolBar.o \
+	widgets/AButton.o \
+	widgets/ASlider.o \
+	widgets/AttachableScrollBar.o \
+	widgets/ErrorDialog.o \
+	widgets/ExpandingToolBar.o \
+	widgets/FileHistory.o \
+	widgets/Grabber.o \
+	widgets/Grid.o \
+	widgets/HtmlWindow.o \
+	widgets/ImageRoll.o \
+	widgets/LinkingHtmlWindow.o \
+	widgets/Meter.o \
+	widgets/MultiDialog.o \
+	widgets/ProgressDialog.o \
+	widgets/Ruler.o \
+	widgets/TimeTextCtrl.o \
+	widgets/Warning.o \
+	xml/XMLFileReader.o \
+	xml/XMLWriter.o \
+	 effects/nyquist/Nyquist.o effects/nyquist/LoadNyquist.o effects/vamp/VampEffect.o effects/vamp/LoadVamp.o NoteTrack.o import/ImportMIDI.o  effects/ladspa/LoadLadspa.o effects/ladspa/LadspaEffect.o
+
+TEMPORARILY_DISABLED_IMPORTER_OBJS = \
+	import/ImportMIDI.o \
+	import/ImportPCM.o \
+	import/ImportRaw.o \
+
+LIBAUDACITY_OBJS = \
+	BlockFile.o \
+	Dither.o \
+	DirManager.o \
+	FileFormats.o \
+	Prefs.o \
+	SampleFormat.o \
+	Sequence.o \
+	Internat.o \
+	blockfile/LegacyBlockFile.o \
+	blockfile/LegacyAliasBlockFile.o \
+	blockfile/SilentBlockFile.o \
+	blockfile/SimpleBlockFile.o \
+	blockfile/PCMAliasBlockFile.o \
+	blockfile/ODPCMAliasBlockFile.o \
+	blockfile/ODDecodeBlockFile.o \
+	xml/XMLTagHandler.o \
+
+
+########################################
+# DEPENDENCIES
+
+SOURCES = $(OBJS:%.o=%.cpp)
+LIBAUDACITY_SOURCES = $(LIBAUDACITY_OBJS:%.o=%.cpp)
+
+########################################
+
+all: $(DIRS) libaudacity.a ../audacity $(EXTRATARGETS)
+
+libaudacity.a: $(LIBAUDACITY_OBJS)
+	ar rcs libaudacity.a $(LIBAUDACITY_OBJS)
+
+../audacity: $(OBJS) $(LOCAL_LIBS:%=$(top_builddir)/lib-src/%) $(EXTRAOBJS) libaudacity.a Makefile
+	$(CCC) -o ../audacity $(OBJS) $(LDFLAGS) $(LOCAL_LIBS:%=$(top_builddir)/lib-src/%) $(EXTRAOBJS) libaudacity.a $(LIBS)
+	
+
+$(DIRS):
+	mkdir -p $(DIRS)
+
+#
+# Mac OS X application
+#
+
+../Audacity.app: ../audacity
+	mkdir -p ../Audacity.app/Contents/MacOS
+	mkdir -p ../Audacity.app/Contents/Resources
+	cp -f ../audacity ../Audacity.app/Contents/MacOS/Audacity
+	gcc -E -dM Audacity.h | grep AUDACITY >Info.plist.h
+	gcc -E -P -x c -Wno-trigraphs -traditional -include Info.plist.h ../mac/Info.plist >../Audacity.app/Contents/Info.plist
+	test -f "../Audacity.app/Contents/PkgInfo" || \
+	     echo "APPLauDy" > ../Audacity.app/Contents/PkgInfo
+	cp -f ../mac/Resources/*.icns ../Audacity.app/Contents/Resources
+	cp -f ../mac/Resources2/Audacity.rsrc \
+		../Audacity.app/Contents/Resources/Audacity.rsrc
+
+#
+# You can optionally "make dep" to make dependencies.
+# The sed script turns "Foo.o: bar/Foo.cpp" into "bar/Foo.o: bar/Foo.cpp".
+#
+
+dep:
+	$(CCC) -MM $(CXXFLAGS) $(CPPFLAGS) $(SOURCES) $(LIBAUDACITY_SOURCES) | \
+		sed -e 's/^.*\.o: \([^ ]*\)\.cpp/\1.o: \1.cpp/' \
+		> .depend
+	$(CCC) -MM $(CXXFLAGS) $(CPPFLAGS) AudacityHeaders.h | \
+		sed -e 's/^.*: \([^ ]*\)\.cpp/$(OBJDIR)\/\1.o: /' | \
+		sed 's/AudacityHeaders.o/AudacityHeaders.h.gch/' \
+		> .gchdepend
+
+clean:
+	rm -rf $(OBJS) $(LIBAUDACITY_OBJS)
+	rm -f libaudacity.a AudacityHeaders.h.gch
+
+#
+# Rule for compiling C++ files
+#
+
+$(OBJS) $(LIBAUDACITY_OBJS): %.o: $(srcdir)/%.cpp configunix.h $(CDEPEND)
+	$(CCC) -c $(CXXFLAGS) $(CPPFLAGS) $(PRECOMP_CFLAGS) $< -o $@
+
+#
+# Special case: files that need to be compiled without precompiled headers.
+#
+
+import/ImportQTWrapper.o: import/ImportQTWrapper.cpp $(CONFIGHEADER) $(CDEPEND)
+	$(CCC) -c $(CXXFLAGS) $(CPPFLAGS) $< -o $@
+
+#
+# Precompiled headers:
+#
+
+AudacityHeaders.h.gch:
+	echo "Rebuilding Precompiled Headers"
+	$(CCC) -c $(CXXFLAGS) $(CPPFLAGS) AudacityHeaders.h -o AudacityHeaders.h.gch
+
+#
+# Include ".depend" if it exists (run "make dep" to generate it)
+#
+
+ifeq (.depend,$(wildcard .depend))
+include .depend
+endif
+

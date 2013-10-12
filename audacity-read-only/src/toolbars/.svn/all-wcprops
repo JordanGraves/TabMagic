@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12482/audacity-src/trunk/src/toolbars
+END
+ToolBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12482/audacity-src/trunk/src/toolbars/ToolBar.cpp
+END
+ControlToolBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12455/audacity-src/trunk/src/toolbars/ControlToolBar.cpp
+END
+MeterToolBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12101/audacity-src/trunk/src/toolbars/MeterToolBar.h
+END
+ToolBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10882/audacity-src/trunk/src/toolbars/ToolBar.h
+END
+MixerToolBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12482/audacity-src/trunk/src/toolbars/MixerToolBar.cpp
+END
+ControlToolBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12455/audacity-src/trunk/src/toolbars/ControlToolBar.h
+END
+ToolManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12482/audacity-src/trunk/src/toolbars/ToolManager.cpp
+END
+EditToolBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12353/audacity-src/trunk/src/toolbars/EditToolBar.cpp
+END
+SelectionBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12482/audacity-src/trunk/src/toolbars/SelectionBar.cpp
+END
+MixerToolBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12262/audacity-src/trunk/src/toolbars/MixerToolBar.h
+END
+EditToolBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12101/audacity-src/trunk/src/toolbars/EditToolBar.h
+END
+ToolManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/src/toolbars/ToolManager.h
+END
+ToolDock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12482/audacity-src/trunk/src/toolbars/ToolDock.cpp
+END
+SelectionBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12101/audacity-src/trunk/src/toolbars/SelectionBar.h
+END
+TranscriptionToolBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12482/audacity-src/trunk/src/toolbars/TranscriptionToolBar.cpp
+END
+DeviceToolBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12475/audacity-src/trunk/src/toolbars/DeviceToolBar.cpp
+END
+ToolsToolBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12229/audacity-src/trunk/src/toolbars/ToolsToolBar.cpp
+END
+ToolDock.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10189/audacity-src/trunk/src/toolbars/ToolDock.h
+END
+TranscriptionToolBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12101/audacity-src/trunk/src/toolbars/TranscriptionToolBar.h
+END
+DeviceToolBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12101/audacity-src/trunk/src/toolbars/DeviceToolBar.h
+END
+ToolsToolBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12101/audacity-src/trunk/src/toolbars/ToolsToolBar.h
+END
+MeterToolBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12482/audacity-src/trunk/src/toolbars/MeterToolBar.cpp
+END

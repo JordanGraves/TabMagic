@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12511/audacity-src/trunk/src/effects/VST
+END
+VSTEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12511/audacity-src/trunk/src/effects/VST/VSTEffect.cpp
+END
+aeffectx.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12229/audacity-src/trunk/src/effects/VST/aeffectx.h
+END
+VSTEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12511/audacity-src/trunk/src/effects/VST/VSTEffect.h
+END

@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12511/audacity-src/trunk/src/effects
+END
+Leveller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12396/audacity-src/trunk/src/effects/Leveller.cpp
+END
+ScoreAlignDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12112/audacity-src/trunk/src/effects/ScoreAlignDialog.h
+END
+Noise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/Noise.cpp
+END
+AutoDuck.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12376/audacity-src/trunk/src/effects/AutoDuck.cpp
+END
+Wahwah.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/Wahwah.cpp
+END
+ChangePitch.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12369/audacity-src/trunk/src/effects/ChangePitch.h
+END
+SimpleMono.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/SimpleMono.cpp
+END
+Phaser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/Phaser.cpp
+END
+Generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12103/audacity-src/trunk/src/effects/Generator.h
+END
+Fade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/Fade.cpp
+END
+Effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12300/audacity-src/trunk/src/effects/Effect.h
+END
+Contrast.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/Contrast.h
+END
+Paulstretch.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12378/audacity-src/trunk/src/effects/Paulstretch.h
+END
+Normalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12229/audacity-src/trunk/src/effects/Normalize.h
+END
+ScoreAlignDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12112/audacity-src/trunk/src/effects/ScoreAlignDialog.cpp
+END
+TwoPassSimpleMono.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12103/audacity-src/trunk/src/effects/TwoPassSimpleMono.h
+END
+Equalization.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10505/audacity-src/trunk/src/effects/Equalization.h
+END
+ClickRemoval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/ClickRemoval.cpp
+END
+Noise.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12213/audacity-src/trunk/src/effects/Noise.h
+END
+Echo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12229/audacity-src/trunk/src/effects/Echo.h
+END
+AutoDuck.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11636/audacity-src/trunk/src/effects/AutoDuck.h
+END
+Wahwah.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12378/audacity-src/trunk/src/effects/Wahwah.h
+END
+Generator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12229/audacity-src/trunk/src/effects/Generator.cpp
+END
+DtmfGen.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/DtmfGen.h
+END
+BassTreble.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12299/audacity-src/trunk/src/effects/BassTreble.h
+END
+Effect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/Effect.cpp
+END
+StereoToMono.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11311/audacity-src/trunk/src/effects/StereoToMono.cpp
+END
+Paulstretch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/Paulstretch.cpp
+END
+ChangeTempo.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12397/audacity-src/trunk/src/effects/ChangeTempo.h
+END
+Normalize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/Normalize.cpp
+END
+Compressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/Compressor.h
+END
+Amplify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/Amplify.cpp
+END
+TruncSilence.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12297/audacity-src/trunk/src/effects/TruncSilence.h
+END
+Fade.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/Fade.h
+END
+Invert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12066/audacity-src/trunk/src/effects/Invert.cpp
+END
+FindClipping.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/FindClipping.h
+END
+Reverse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12066/audacity-src/trunk/src/effects/Reverse.cpp
+END
+TimeScale.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12229/audacity-src/trunk/src/effects/TimeScale.h
+END
+Echo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/Echo.cpp
+END
+TimeWarper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11696/audacity-src/trunk/src/effects/TimeWarper.cpp
+END
+LoadEffects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12300/audacity-src/trunk/src/effects/LoadEffects.cpp
+END
+ClickRemoval.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/ClickRemoval.h
+END
+DtmfGen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/DtmfGen.cpp
+END
+Reverb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12392/audacity-src/trunk/src/effects/Reverb.cpp
+END
+Repeat.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12229/audacity-src/trunk/src/effects/Repeat.h
+END
+BassTreble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12376/audacity-src/trunk/src/effects/BassTreble.cpp
+END
+Repair.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/Repair.h
+END
+EffectManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11233/audacity-src/trunk/src/effects/EffectManager.cpp
+END
+Silence.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/Silence.h
+END
+ChangeTempo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12397/audacity-src/trunk/src/effects/ChangeTempo.cpp
+END
+Compressor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/Compressor.cpp
+END
+TruncSilence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/TruncSilence.cpp
+END
+ToneGen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/ToneGen.cpp
+END
+EffectCategory.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/EffectCategory.h
+END
+StereoToMono.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/StereoToMono.h
+END
+NoiseRemoval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/NoiseRemoval.cpp
+END
+TimeScale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/TimeScale.cpp
+END
+Amplify.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12229/audacity-src/trunk/src/effects/Amplify.h
+END
+FindClipping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12376/audacity-src/trunk/src/effects/FindClipping.cpp
+END
+SBSMSEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11696/audacity-src/trunk/src/effects/SBSMSEffect.h
+END
+Reverb_libSoX.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12300/audacity-src/trunk/src/effects/Reverb_libSoX.h
+END
+ChangeSpeed.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12251/audacity-src/trunk/src/effects/ChangeSpeed.h
+END
+Invert.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/Invert.h
+END
+ChangePitch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12479/audacity-src/trunk/src/effects/ChangePitch.cpp
+END
+SoundTouchEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11852/audacity-src/trunk/src/effects/SoundTouchEffect.h
+END
+Leveller.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12391/audacity-src/trunk/src/effects/Leveller.h
+END
+Reverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12066/audacity-src/trunk/src/effects/Reverse.h
+END
+Repeat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/Repeat.cpp
+END
+Silence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/Silence.cpp
+END
+Repair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/Repair.cpp
+END
+TimeWarper.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11696/audacity-src/trunk/src/effects/TimeWarper.h
+END
+LoadEffects.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/LoadEffects.h
+END
+SimpleMono.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/SimpleMono.h
+END
+Phaser.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12378/audacity-src/trunk/src/effects/Phaser.h
+END
+Reverb.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12300/audacity-src/trunk/src/effects/Reverb.h
+END
+EffectCategory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/EffectCategory.cpp
+END
+EffectManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/EffectManager.h
+END
+Contrast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12508/audacity-src/trunk/src/effects/Contrast.cpp
+END
+TwoPassSimpleMono.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12229/audacity-src/trunk/src/effects/TwoPassSimpleMono.cpp
+END
+ToneGen.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11125/audacity-src/trunk/src/effects/ToneGen.h
+END
+SBSMSEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11696/audacity-src/trunk/src/effects/SBSMSEffect.cpp
+END
+Equalization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/Equalization.cpp
+END
+ChangeSpeed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/ChangeSpeed.cpp
+END
+SoundTouchEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11852/audacity-src/trunk/src/effects/SoundTouchEffect.cpp
+END
+NoiseRemoval.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12296/audacity-src/trunk/src/effects/NoiseRemoval.h
+END

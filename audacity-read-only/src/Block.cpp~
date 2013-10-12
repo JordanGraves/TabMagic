@@ -1,0 +1,11 @@
+
+
+include "Block.h"
+
+
+Block::Block {
+  public:
+      int note;
+      int loudest_frequency;
+      int max_dB;
+};

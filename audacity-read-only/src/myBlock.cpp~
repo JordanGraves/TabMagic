@@ -1,0 +1,11 @@
+
+
+include "myBlock.h"
+
+
+class myBlock {
+  public:
+      int note;
+      int loudest_frequency;
+      int max_dB;
+};

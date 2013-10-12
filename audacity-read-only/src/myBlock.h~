@@ -1,0 +1,7 @@
+
+#ifndef __AUDACITY_MYBLOCK__
+#define __AUDACTITY_MYBLOCK__
+
+class myBlock;
+
+#endif

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/nyquist
+END
+Nyquist.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11752/audacity-src/trunk/src/effects/nyquist/Nyquist.h
+END
+LoadNyquist.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12227/audacity-src/trunk/src/effects/nyquist/LoadNyquist.h
+END
+Nyquist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12482/audacity-src/trunk/src/effects/nyquist/Nyquist.cpp
+END
+LoadNyquist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12227/audacity-src/trunk/src/effects/nyquist/LoadNyquist.cpp
+END

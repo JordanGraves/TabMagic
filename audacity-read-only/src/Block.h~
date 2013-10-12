@@ -1,0 +1,21 @@
+
+#ifndef __AUDACITY_BLOCK__
+#define __AUDACTITY_BLOCK__
+class Block {
+  public:
+	float _note;
+	float _frequency;
+	float _dB;
+  
+  Block() {
+    
+  }
+  Block(float frequency, float dB) {
+     _frequency = frequency;
+     _dB = dB;
+  }
+  
+  
+};
+
+#endif

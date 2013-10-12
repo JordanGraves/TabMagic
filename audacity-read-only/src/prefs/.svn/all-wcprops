@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12484/audacity-src/trunk/src/prefs
+END
+ThemePrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12482/audacity-src/trunk/src/prefs/ThemePrefs.cpp
+END
+SpectrumPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12229/audacity-src/trunk/src/prefs/SpectrumPrefs.cpp
+END
+DevicePrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10946/audacity-src/trunk/src/prefs/DevicePrefs.h
+END
+LibraryPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12229/audacity-src/trunk/src/prefs/LibraryPrefs.h
+END
+RecordingPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11893/audacity-src/trunk/src/prefs/RecordingPrefs.cpp
+END
+DirectoriesPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12482/audacity-src/trunk/src/prefs/DirectoriesPrefs.cpp
+END
+ImportExportPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11895/audacity-src/trunk/src/prefs/ImportExportPrefs.cpp
+END
+KeyConfigPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12484/audacity-src/trunk/src/prefs/KeyConfigPrefs.cpp
+END
+MidiIOPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10720/audacity-src/trunk/src/prefs/MidiIOPrefs.h
+END
+EffectsPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/EffectsPrefs.h
+END
+BatchPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/BatchPrefs.h
+END
+TracksPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12229/audacity-src/trunk/src/prefs/TracksPrefs.cpp
+END
+GUIPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/GUIPrefs.h
+END
+ModulePrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12112/audacity-src/trunk/src/prefs/ModulePrefs.h
+END
+PlaybackPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/PlaybackPrefs.h
+END
+ExtImportPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12482/audacity-src/trunk/src/prefs/ExtImportPrefs.cpp
+END
+WarningsPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/WarningsPrefs.h
+END
+MousePrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/MousePrefs.h
+END
+QualityPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/QualityPrefs.h
+END
+ProjectsPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/ProjectsPrefs.h
+END
+DevicePrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12482/audacity-src/trunk/src/prefs/DevicePrefs.cpp
+END
+PrefsDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/PrefsDialog.h
+END
+PrefsPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/PrefsPanel.h
+END
+LibraryPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12482/audacity-src/trunk/src/prefs/LibraryPrefs.cpp
+END
+SpectrumPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/SpectrumPrefs.h
+END
+ThemePrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/ThemePrefs.h
+END
+MidiIOPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11893/audacity-src/trunk/src/prefs/MidiIOPrefs.cpp
+END
+EffectsPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12229/audacity-src/trunk/src/prefs/EffectsPrefs.cpp
+END
+ImportExportPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/ImportExportPrefs.h
+END
+DirectoriesPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/DirectoriesPrefs.h
+END
+BatchPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12296/audacity-src/trunk/src/prefs/BatchPrefs.cpp
+END
+RecordingPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/RecordingPrefs.h
+END
+KeyConfigPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11665/audacity-src/trunk/src/prefs/KeyConfigPrefs.h
+END
+GUIPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12346/audacity-src/trunk/src/prefs/GUIPrefs.cpp
+END
+ModulePrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12112/audacity-src/trunk/src/prefs/ModulePrefs.cpp
+END
+PlaybackPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11633/audacity-src/trunk/src/prefs/PlaybackPrefs.cpp
+END
+QualityPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12452/audacity-src/trunk/src/prefs/QualityPrefs.cpp
+END
+MousePrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11737/audacity-src/trunk/src/prefs/MousePrefs.cpp
+END
+WarningsPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11073/audacity-src/trunk/src/prefs/WarningsPrefs.cpp
+END
+ProjectsPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11633/audacity-src/trunk/src/prefs/ProjectsPrefs.cpp
+END
+TracksPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10189/audacity-src/trunk/src/prefs/TracksPrefs.h
+END
+PrefsDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12363/audacity-src/trunk/src/prefs/PrefsDialog.cpp
+END
+ExtImportPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12112/audacity-src/trunk/src/prefs/ExtImportPrefs.h
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12482/audacity-src/trunk/src/blockfile
+END
+SilentBlockFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12482/audacity-src/trunk/src/blockfile/SilentBlockFile.cpp
+END
+LegacyAliasBlockFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10971/audacity-src/trunk/src/blockfile/LegacyAliasBlockFile.cpp
+END
+PCMAliasBlockFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10561/audacity-src/trunk/src/blockfile/PCMAliasBlockFile.h
+END
+SimpleBlockFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10189/audacity-src/trunk/src/blockfile/SimpleBlockFile.h
+END
+ODPCMAliasBlockFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10561/audacity-src/trunk/src/blockfile/ODPCMAliasBlockFile.h
+END
+LegacyAliasBlockFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10561/audacity-src/trunk/src/blockfile/LegacyAliasBlockFile.h
+END
+SilentBlockFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10561/audacity-src/trunk/src/blockfile/SilentBlockFile.h
+END
+LegacyBlockFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10971/audacity-src/trunk/src/blockfile/LegacyBlockFile.cpp
+END
+ODDecodeBlockFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12229/audacity-src/trunk/src/blockfile/ODDecodeBlockFile.cpp
+END
+LegacyBlockFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10189/audacity-src/trunk/src/blockfile/LegacyBlockFile.h
+END
+PCMAliasBlockFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12229/audacity-src/trunk/src/blockfile/PCMAliasBlockFile.cpp
+END
+SimpleBlockFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12280/audacity-src/trunk/src/blockfile/SimpleBlockFile.cpp
+END
+ODDecodeBlockFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10514/audacity-src/trunk/src/blockfile/ODDecodeBlockFile.h
+END
+ODPCMAliasBlockFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12104/audacity-src/trunk/src/blockfile/ODPCMAliasBlockFile.cpp
+END

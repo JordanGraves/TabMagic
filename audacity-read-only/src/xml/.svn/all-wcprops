@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12229/audacity-src/trunk/src/xml
+END
+XMLWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11634/audacity-src/trunk/src/xml/XMLWriter.cpp
+END
+XMLTagHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12101/audacity-src/trunk/src/xml/XMLTagHandler.h
+END
+XMLWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10189/audacity-src/trunk/src/xml/XMLWriter.h
+END
+audacityproject.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10107/audacity-src/trunk/src/xml/audacityproject.dtd
+END
+XMLFileReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12229/audacity-src/trunk/src/xml/XMLFileReader.cpp
+END
+XMLFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10189/audacity-src/trunk/src/xml/XMLFileReader.h
+END
+XMLTagHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10844/audacity-src/trunk/src/xml/XMLTagHandler.cpp
+END

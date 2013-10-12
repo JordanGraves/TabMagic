@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12482/audacity-src/trunk/src/import
+END
+ImportPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11983/audacity-src/trunk/src/import/ImportPlugin.h
+END
+ImportMP3.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10189/audacity-src/trunk/src/import/ImportMP3.h
+END
+ImportFFmpeg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12482/audacity-src/trunk/src/import/ImportFFmpeg.cpp
+END
+ImportFLAC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12482/audacity-src/trunk/src/import/ImportFLAC.cpp
+END
+ImportFFmpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/src/import/ImportFFmpeg.h
+END
+ImportFLAC.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12229/audacity-src/trunk/src/import/ImportFLAC.h
+END
+ImportOGG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12482/audacity-src/trunk/src/import/ImportOGG.cpp
+END
+ImportPCM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12482/audacity-src/trunk/src/import/ImportPCM.cpp
+END
+Import.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12335/audacity-src/trunk/src/import/Import.cpp
+END
+ImportLOF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12482/audacity-src/trunk/src/import/ImportLOF.cpp
+END
+ImportOGG.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10189/audacity-src/trunk/src/import/ImportOGG.h
+END
+ImportMIDI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11466/audacity-src/trunk/src/import/ImportMIDI.cpp
+END
+ImportQT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12470/audacity-src/trunk/src/import/ImportQT.cpp
+END
+ImportPCM.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10189/audacity-src/trunk/src/import/ImportPCM.h
+END
+Import.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10387/audacity-src/trunk/src/import/Import.h
+END
+ImportLOF.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10189/audacity-src/trunk/src/import/ImportLOF.h
+END
+ImportMIDI.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10189/audacity-src/trunk/src/import/ImportMIDI.h
+END
+RawAudioGuess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12482/audacity-src/trunk/src/import/RawAudioGuess.cpp
+END
+ImportQT.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10189/audacity-src/trunk/src/import/ImportQT.h
+END
+ImportRaw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11632/audacity-src/trunk/src/import/ImportRaw.cpp
+END
+ImportGStreamer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10189/audacity-src/trunk/src/import/ImportGStreamer.cpp
+END
+RawAudioGuess.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/src/import/RawAudioGuess.h
+END
+ImportRaw.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10189/audacity-src/trunk/src/import/ImportRaw.h
+END
+ImportGStreamer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10189/audacity-src/trunk/src/import/ImportGStreamer.h
+END
+ImportMP3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12482/audacity-src/trunk/src/import/ImportMP3.cpp
+END

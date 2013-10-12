@@ -1,0 +1,50 @@
+#ifndef _Analyzer_
+#define _Analyzer_
+
+///********************************************
+///
+///	----	Analyzer    ----
+///	Takes a track, splits the track into samples that are
+///	proportional to the tempo. Reads the sample data to
+///	determine loudest frequency within that range.
+///     The results are output to a files (for now just for debugging).
+///	The Analyzer creates a list of blocks that information for each 
+///	sample range
+///
+///*********************************************
+
+#include <iostream>
+#include <fstream>
+#include <string>
+#include "Audacity.h"
+#include "Track.h"
+
+
+#define MAX_X 4096;
+const std::string filename = "noteVals.txt";
+
+using namespace std;
+
+class Analyzer {
+
+	int _tempo;
+	int _samplerate;
+	int _dBrange; 
+	WaveTrack *_t;
+	
+	ofstream _f;				// The file to write the note values to
+    
+    
+    public:
+	Analyzer(int tempo, int samplerate, int dbRange, Track *t);
+	int process(void);
+  
+};
+
+
+
+
+
+
+
+#endif

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12229/audacity-src/trunk/src/effects/ladspa
+END
+LadspaEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12229/audacity-src/trunk/src/effects/ladspa/LadspaEffect.cpp
+END
+LoadLadspa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12226/audacity-src/trunk/src/effects/ladspa/LoadLadspa.cpp
+END
+LadspaEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/ladspa/LadspaEffect.h
+END
+ladspa.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10189/audacity-src/trunk/src/effects/ladspa/ladspa.h
+END
+LoadLadspa.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12226/audacity-src/trunk/src/effects/ladspa/LoadLadspa.h
+END

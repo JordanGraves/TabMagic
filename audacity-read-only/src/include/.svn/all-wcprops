@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12229/audacity-src/trunk/src/include
+END
+BladeMP3EncDLL.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12229/audacity-src/trunk/src/include/BladeMP3EncDLL.h
+END
+lame.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10189/audacity-src/trunk/src/include/lame.h
+END
+expat.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10189/audacity-src/trunk/src/include/expat.h
+END
